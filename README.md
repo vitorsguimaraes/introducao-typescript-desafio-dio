@@ -1,3 +1,8 @@
+Clone do desafio e modificações básicas
+
+Segue Readme original do professor:
+>>>>>>>>>>>>>>>>>>>
+
 # Aula de Typescript da Take na plataforma DIO
   
 *Bem vindo!!*
